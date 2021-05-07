@@ -10,7 +10,7 @@ signal with the phone number <i>931-297-9243</i></p>
 <li>Web Development (HTML, CSS)</li>
 <li>Python Programming</li>
 <li>Blockchain Development</li>
-<li>XML, JSON<li>
+<li>XML, JSON</li>
 <li>Android/iOS App Development</li>
 <li>C# and .NET Application Development</li>
 <li>Game Development/Design</li>
